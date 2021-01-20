@@ -5,10 +5,10 @@
 <p>&nbsp;</p>
 <div align="">
 <table border="0" cellpadding="0" cellspacing
-="0" width="460" bgcolor="#3EA466">
+="0" width="460" bgcolor="#4D64DB">
 <tr>
 <td width="100%"><font size="6" color
-="#800000">&nbsp;New Date Example</font></td>
+="#800000">&nbsp;Date Example</font></td>
 </tr>
 <tr>
 <td width="100%"><b>&nbsp;Current Date 
